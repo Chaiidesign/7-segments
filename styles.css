@@ -1,7 +1,4 @@
-@font-face{
-  src: url(/font/7segment.ttf);
-  font-family: SEG;
-}
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400;500;600;700&display=swap');
 
 body {
   background: #AAA274;
@@ -25,7 +22,7 @@ h1, svg {
 h1 {
   margin: 300px 0 0 -165px;
   height: 300.5px;
-  font-family: 'SEG';
+  font-family: 'Kode Mono', monospace;
   font-size: 35px;
   letter-spacing: 6px;
   line-height: 287.5px;
